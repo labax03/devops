@@ -5,7 +5,7 @@ import com.mongodb.client.MongoDatabase;
 import com.mongodb.client.MongoCollection;
 import org.bson.Document;
 
-public class app
+public class App
 {
     public static void main(String[] args)
     {
